@@ -8,11 +8,18 @@
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
-![Screenshot 4]()
-![Screenshot 5]()
-![Screenshot 6]()
-![Screenshot 7]()
-![Screenshot 8]()
+![Screenshot_1](./screenshots/screenshot-1.png)
+
+![Screenshot_2](./screenshots/screenshot-2.png)
+
+![Screenshot_3](./screenshots/screenshot-3.png)
+
+![Screenshot_4](./screenshots/screenshot-4.png)
+
+![Screenshot_5](./screenshots/screenshot-5.png)
+
+![Screenshot_6](./screenshots/screenshot-6.png)
+
+![Screenshot_7](./screenshots/screenshot-7.png)
+
+![Screenshot_8](./screenshots/screenshot-8.png)
